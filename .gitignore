@@ -8,5 +8,5 @@
 *.class
 target
 /bin/
-.gradle
+gradle
 settings.gradle
